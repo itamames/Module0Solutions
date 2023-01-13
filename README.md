@@ -19,7 +19,7 @@ public class CalculateSum
         int inp = input.nextInt();
         
         int sum = 0;
-        for (int i = 0; i < inp; i++) 
+        for (int i = 0; i <= inp; i++) 
         {
             sum += i;
         }
